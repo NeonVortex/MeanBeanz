@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Nov 9, 2011
- *      Author: Necross
+ *      Author: zik
  */
 
 #include <fcntl.h>
